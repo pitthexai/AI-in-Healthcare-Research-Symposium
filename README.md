@@ -10,7 +10,7 @@
 <strong> Knee Sample Dataset</strong> [<a href="https://drive.google.com/file/d/1OMkD6_NMlBdgTbamB09wREn3qpuA36ew/view?usp=sharing" target="_blank">Download</a>]<br/>
 
 ### Python code and Implementation
-<p align="justify">This GitHub repository also includes all Python codes and implementations tight to the current tutorial/hackathon.</p>
+<p align="justify">This GitHub repository also includes all Python codes and implementations tied to the current tutorial.</p>
 
 ### Instructors  
 + <p align="justify"><a href="https://pitthexai.github.io/people.html" target="_blank">Nickolas Littlefield</a>, MS (PhD Student), University of Pittsburgh.</p>
